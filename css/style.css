@@ -5,6 +5,7 @@ p {
 }
 
 body {
+    min-width: 1170px;
     padding-top: 150px;
     height: 100vh;
     text-align: center;

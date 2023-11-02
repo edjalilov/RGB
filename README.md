@@ -1,6 +1,6 @@
 # RGB
 
-### Beautiful text with rgb
+### Beautiful RGB Logo
 
 Demo. [https://rgb.vercel.app/](https://rgb.vercel.app/)
 
